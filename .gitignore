@@ -1,0 +1,5 @@
+# Local configuration and editor/OS metadata
+config.env
+.env
+.DS_Store
+Thumbs.db
